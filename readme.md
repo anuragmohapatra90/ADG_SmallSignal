@@ -60,10 +60,4 @@ Each file is designed to be run independently to generate visualizations and rep
     git clone https://github.com/anuragmohapatra90/ADG_SmallSignal.git
     cd ADG_SmallSignal
     ```
-2.  **Run any analysis script:**
-    ```bash
-    python pod_with_an_inverter.py
-    ```
-    The scripts will output matrix visualizations, stability reports, and display plots showing time-domain responses and root locus analysis.
-
 -----
