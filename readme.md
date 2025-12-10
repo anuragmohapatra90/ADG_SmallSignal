@@ -57,8 +57,8 @@ Each file is designed to be run independently to generate visualizations and rep
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/anuragmohapatra90/ADG_SmallSignalADG.git
-    cd ADG_SmallSignalADG
+    git clone https://github.com/anuragmohapatra90/ADG_SmallSignal.git
+    cd ADG_SmallSignal
     ```
 2.  **Run any analysis script:**
     ```bash
