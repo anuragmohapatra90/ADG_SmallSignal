@@ -1,4 +1,4 @@
-# ADG\_SmallSignalADG
+# ADG\_SmallSignal
 
 ## Advanced Damping and Generator Small-Signal Analysis
 
